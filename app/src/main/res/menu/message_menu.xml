@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ViewContact"
+        android:title="View Contact"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/MoreInfo"
+        android:title="More Info"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Media"
+        android:title="Media"
+        app:showAsAction="never"/>
+    <item android:id="@+id/call"
+        android:title="Search"
+        android:icon="@drawable/ic_call"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/video"
+        android:title="Search"
+        android:icon="@drawable/ic_videocam"
+        app:showAsAction="ifRoom"
+        />
+</menu>

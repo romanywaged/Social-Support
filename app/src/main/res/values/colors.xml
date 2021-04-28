@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00b0ff</color>
+    <color name="colorPrimaryDark">#00b0ff</color>
+    <color name="colorAccent">#00b0ff</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="bg_card">#f6f6f6</color>
+    <color name="item_text_color">#258bd6</color>
+    <color name="content_text_color">#999da4</color>
+    <color name="black">#000000</color>
+    <color name="card_bg_dark">#0e0e0e</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#c7c7c7</color>
+    <color name="yellow">#ffb330</color>
+    <color name="purple">#7c4dff</color>
+    <color name="pink">#ff4081</color>
+    <color name="green">#00bfa5</color>
+
+</resources>
